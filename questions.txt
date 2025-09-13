@@ -1,11 +1,17 @@
-1) In which category do people book the most Uber rides?
+1) What is the size and structure of the dataset?
+2) Are there missing values or inconsistent datatypes?
+3) How many duplicate Booking IDs exist?
+4) Are there anomalies in date/time fields (e.g., bookings in the future or negative trip durations)?
 
-2) For which purpose do people book Uber rides the most?
+5) How do total bookings vary by month, day of week, and hour of day?
+6) Which vehicle types see the highest demand and when?
+7) Are there specific pickup locations that act as hotspots for demand?
 
-3) At what time do people book cabs the most from Uber?
+8) What is the overall completion vs. cancellation rate, and how do these vary:
+9) For customer cancellations:
+What are the top reasons cited?
+Do certain locations or times have higher customer-initiated cancellations?
 
-4) In which months do people book Uber rides less frequently?
-
-5) On which days of the week do people book Uber rides the most?
-
-6) How many miles do people usually book a cab for through Uber?
+10) Total revenue and average fare per ride.
+11) Contribution of each payment method to total revenue—any growth in UPI/Cashless usage?
+12) Which vehicle types drive the highest revenue per km?
